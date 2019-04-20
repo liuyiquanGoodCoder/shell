@@ -1,0 +1,20 @@
+#!/bin/bash
+#wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.2.zip
+#wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.3.zip
+#wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.4.zip
+#wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.5.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.6.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.7.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.8.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.9.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.10.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.11.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.12.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.13.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.14.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.15.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.16.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.17.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.18.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.19.zip
+wget https://www.ircad.fr/softwares/3Dircadb/3Dircadb1/3Dircadb1.20.zip
